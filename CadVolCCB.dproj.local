@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/27 17:24:25.000.607,=C:\Users\newto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 17:27:45.000.513,C:\proj_D11\proj1.dfm=C:\Users\newto\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/27 17:27:45.000.513,C:\proj_D11\proj1.pas=C:\Users\newto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 17:28:48.000.066,C:\proj_D11\Project1.dproj=C:\Users\newto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/28 23:01:49.000.520,=C:\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 23:23:59.000.893,C:\proj_D11\dm.dfm=C:\proj_D11\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 23:23:59.000.893,C:\proj_D11\dm.pas=C:\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/07/29 00:00:25.000.286,C:\proj_D11\frmPrincipal.pas=C:\proj_D11\proj1.pas</Transaction>
+    <Transaction>2024/07/29 00:00:25.000.286,C:\proj_D11\frmPrincipal.dfm=C:\proj_D11\proj1.dfm</Transaction>
+    <Transaction>2024/07/29 00:11:20.000.084,=C:\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/07/29 00:17:30.000.252,C:\proj_D11\u_frmCad.pas=C:\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/07/29 00:17:30.000.252,C:\proj_D11\u_frmCad.dfm=C:\proj_D11\Unit1.dfm</Transaction>
+    <Transaction>2024/08/17 17:16:00.000.375,=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/08/17 17:29:39.000.973,C:\source\proj_D11\u_frmCadDExpress.dfm=C:\source\proj_D11\Unit1.dfm</Transaction>
+    <Transaction>2024/08/17 17:29:39.000.973,C:\source\proj_D11\u_frmCadDExpress.pas=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/08/17 20:26:31.000.878,C:\source\proj_D11\CadVolCCB.dproj=C:\source\proj_D11\Project1.dproj</Transaction>
+    <Transaction>2024/08/23 17:44:10.000.890,=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 17:53:27.000.851,C:\source\proj_D11\u_frmRelVolunt.pas=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 17:53:27.000.851,C:\source\proj_D11\u_frmRelVolunt.dfm=C:\source\proj_D11\Unit1.dfm</Transaction>
+    <Transaction>2024/09/12 15:30:14.000.329,=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/09/12 15:31:25.000.087,C:\source\proj_D11\Unit1.dfm=C:\source\proj_D11\u_frmWKdb.dfm</Transaction>
+    <Transaction>2024/09/12 15:31:25.000.087,C:\source\proj_D11\Unit1.pas=C:\source\proj_D11\u_frmWKdb.pas</Transaction>
+    <Transaction>2024/10/02 14:30:09.000.298,=C:\source\proj_D11\u_frmImob.pas</Transaction>
+    <Transaction>2024/10/03 14:53:48.000.977,=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 14:55:02.000.663,C:\source\proj_D11\UCSVReader.pas=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/10/04 17:11:11.000.115,=C:\source\proj_D11\Unit1.pas</Transaction>
+    <Transaction>2024/10/04 17:13:01.000.668,C:\source\proj_D11\Unit1.dfm=C:\source\proj_D11\u_frmRelImob.dfm</Transaction>
+    <Transaction>2024/10/04 17:13:01.000.668,C:\source\proj_D11\Unit1.pas=C:\source\proj_D11\u_frmRelImob.pas</Transaction>
+  </Transactions>
+</BorlandProject>

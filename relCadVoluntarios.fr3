@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="2022.1.3" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Padrão" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="45527,7399701505" ReportOptions.Description.Text="" ReportOptions.LastChange="45527,7938151273" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="dbCadVolunt" DataSetName="dbCadVolunt"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" HGuides.Text="" VGuides.Text="" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" HGuides.Text="" VGuides.Text="" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0">
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="102,04731" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="dbCadVolunt" DataSetName="dbCadVolunt" RowCount="0">
+      <TfrxMemoView Name="dbCadVoluntID_VOLUNT" IndexTag="1" AllowVectorExport="True" Left="37,7952755905512" Top="0" Width="79,37013" Height="18,89765" DataField="ID_VOLUNT" DataSet="dbCadVolunt" DataSetName="dbCadVolunt" Frame.Typ="0" Text="[dbCadVolunt.&#34;ID_VOLUNT&#34;]"/>
+      <TfrxMemoView Name="dbCadVoluntNOME" IndexTag="1" AllowVectorExport="True" Left="151,181102362205" Top="0" Width="400,63018" Height="18,89765" DataField="NOME" DataSet="dbCadVolunt" DataSetName="dbCadVolunt" Frame.Typ="0" Text="[dbCadVolunt.&#34;NOME&#34;]"/>
+    </TfrxMasterData>
+    <TfrxPageHeader Name="PageHeader1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Frame.Typ="0" Height="22,67718" Left="0" Top="18,89765" Width="718,1107">
+      <TfrxMemoView Name="Memo1" AllowVectorExport="True" Left="37,7952755905512" Top="0" Width="755,905511811024" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Typ="0" ParentFont="False" Text="Cadastro de Voluntários - Bosque da Saúde"/>
+    </TfrxPageHeader>
+  </TfrxReportPage>
+</TfrxReport>
